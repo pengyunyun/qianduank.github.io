@@ -1,3 +1,3 @@
 # qianduank.github.io
 Adele's blog
-#github
+#越努力，越幸运！
